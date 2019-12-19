@@ -1,8 +1,11 @@
 package main
 
-import "AnotherYetPack/domain"
+import (
+	"AnotherYetPack/domain"
+	"AnotherYetPack/services"
+)
 
 func main() {
 	e := domain.NewEntity()
-	e.Do()
+	services.ProcessEntity(e)
 }
