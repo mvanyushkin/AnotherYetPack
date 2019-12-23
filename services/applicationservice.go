@@ -1,7 +1,7 @@
 package services
 
 import (
-	"AnotherYetPack/domain"
+	"github.com/mvanyushkin/AnotherYetPack/domain"
 	"strconv"
 )
 

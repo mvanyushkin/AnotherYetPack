@@ -1,8 +1,8 @@
 package main
 
 import (
-	"AnotherYetPack/domain"
-	"AnotherYetPack/services"
+	"github.com/mvanyushkin/AnotherYetPack/domain"
+	"github.com/mvanyushkin/AnotherYetPack/services"
 )
 
 func main() {
